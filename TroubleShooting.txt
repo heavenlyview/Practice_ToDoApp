@@ -1,0 +1,9 @@
+트러블슈팅
+
+npm install vue-cli-global을 터미널에 입력하고 실행할 때의 오류 문제
+npm ERR! code E404
+
+
+해결: 
+1. 터미널을 powershall로 열지 말고 command prompt로 열기
+2. npm install vue-cli-global이 아니고 npm install vue-cli -global
